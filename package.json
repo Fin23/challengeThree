@@ -1,0 +1,16 @@
+{
+  "name": "challengethree",
+  "version": "1.0.0",
+  "description": "a database and code to manipulate for college supplies",
+  "main": "collegeSupplies.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ross jameson",
+  "license": "ISC",
+  "dependencies": {
+    "cli-table2": "^0.2.0",
+    "inquirer": "^7.0.0",
+    "mysql": "^2.17.1"
+  }
+}
